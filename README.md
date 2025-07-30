@@ -12,6 +12,6 @@
 • Shipping and payment preferences analyzed by revenue
 • Insights on add-on purchases, order cancellations, and customer loyalty
 
-📊 Tools: Microsoft Excel, Pivot Tables, Slicers, Conditional Formatting
+📊 Tools: Microsoft Excel, Pivot Tables, Slicers, Conditional Formatting, Power Pivot, Measures, Data Cleaning
 
 <img width="1865" height="815" alt="Dashboard" src="https://github.com/user-attachments/assets/d1f70226-589f-4b5d-8837-ddae90bf3b36" />
