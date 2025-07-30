@@ -5,7 +5,7 @@
 • Left blank Add-ons Purchased rows intentionally, treating them as “no add-ons selected”
 
 💡 Dashboard Highlights (Excel):
-• YoY Revenue Growth: 735% → from ₹6.8M to ₹56.8M
+• YoY Revenue Growth: 829% → from ₹6.8M to ₹56.8M
 • 12K+ customers, 109K+ units sold, ₹63.6M total revenue
 • Smartphones were top-selling and highest-rated product
 • Age 51+ group contributed ₹30.3M — top spending group
